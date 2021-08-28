@@ -1,0 +1,26 @@
+name: 'Generate m3u8 file'
+
+defaults:
+  run:
+    shell: bash
+    working-directory: ./
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+      - name: 'Generate m3u8 file'
+        run: mkdir public && ./generate.py > ./public/tv.m3u8
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          force_orphan: true

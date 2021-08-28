@@ -10,18 +10,15 @@ def main(tv_path):
         spamreader = csv.reader(csvfile)
         spamreader = csv.DictReader(csvfile)
         print('#EXTM3U')
-        for no, e in enumerate(spamreader):
+        for no, e in enumerate(spamreader, 1):
             tags = [
-                f'tvg-chno="{no}"',
+                f'group-title="{e["group"]}"',
+                f'tvg-id="{e["tvg-id"]}"',
+                f'tvg-name="{e["tvg-name"]}"',
             ]
-            tvg_id = e["tvg-id"] if e["tvg-id"] else 'NO_%04d' % no
-            tags.append(f'tvg-id="{tvg_id}"')
-            if e["tvg-name"]:
-                tags.append(f'tvg-name="{e["tvg-name"]}"')
             if e["logo"]:
                 tags.append(f'tvg-logo="{e["logo"]}"')
             print(f'#EXTINF:-1 {" ".join(tags)},{e["name"]}')
-            print(f'#EXTINF:{e["group"]}')
             print(e["url"])
 
 
