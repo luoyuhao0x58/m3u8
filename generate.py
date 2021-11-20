@@ -19,6 +19,8 @@ def main(tv_path):
             if e["logo"]:
                 tags.append(f'tvg-logo="{e["logo"]}"')
             print(f'#EXTINF:-1 {" ".join(tags)},{e["name"]}')
+            if e["referrer"]:
+                print(f'#EXTVLCOPT:http-referrer={e["referrer"]}')
             print(e["url"])
 
 
