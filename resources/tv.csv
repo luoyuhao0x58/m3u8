@@ -1,5 +1,6 @@
 "name","group","tvg-id","tvg-name","url","logo","referrer"
 "俄罗斯金砖电视台","国际","","","https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8","",""
+"NHK华语视界","国际","","","https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8","https://i.imgur.com/4yRulEZ.png",""
 "新传媒8频道","国际","","","https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8","http://www.tvyan.com/uploads/dianshi/xinchuanmei8.jpg","https://www.mewatch.sg/"
 "八度空间","国际","","","https://gohkh0825.github.io/tonton-live/m3u8/8TV.m3u8","https://upload.wikimedia.org/wikipedia/commons/f/fc/8TV_Chinese.png","https://www.dailymotion.com"
 "翡翠台","港澳台","126","翡翠台","https://cdn.hkdtmb.com/hls/81/index.m3u8","http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png","https://www.hkdtmb.com/"
