@@ -43,6 +43,7 @@
 "TVBS新闻台","港澳台","6073","TVBS新闻台","https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8","http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",""
 "民视新闻台","港澳台","6071","民视新闻台","https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8","http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",""
 "台视新闻台","港澳台","6143","台视新闻台","https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8","http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",""
+"东森新闻台","港澳台","","","plugin://plugin.video.youtube/play/?video_id=R2iMq5LKXco","","https://www.youtube.com/"
 "俄罗斯金砖电视台","国际","","","https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8","",""
 "新传媒8频道","国际","","","https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8","http://www.tvyan.com/uploads/dianshi/xinchuanmei8.jpg","https://www.mewatch.sg/"
 "八度空间","国际","","","https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8","https://upload.wikimedia.org/wikipedia/commons/f/fc/8TV_Chinese.png","https://www.dailymotion.com"
