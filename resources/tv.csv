@@ -122,5 +122,5 @@
 "中天新闻台","港澳台","","","plugin://plugin.video.youtube/play/?video_id=_QbRXRnHMVY","","https://www.youtube.com/"
 "澳亚卫视","港澳台","476","澳亚卫视","https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8","http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png",""
 "凤凰香港台","港澳台","143","凤凰香港","http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8","http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",""
-"凤凰卫视中文台","港澳台","141","凤凰中文","http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8","http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",""
-"凤凰卫视资讯台","港澳台","142","凤凰资讯","plugin://plugin.video.youtube/play/?video_id=sUISafvOieY","http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png","https://www.youtube.com/"
+"凤凰卫视中文台","港澳台","141","凤凰中文","http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8","http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",""
+"凤凰卫视资讯台","港澳台","142","凤凰资讯","http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8","http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png","https://www.youtube.com/"
