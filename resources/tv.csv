@@ -21,7 +21,7 @@
 "CGTN","央视","20","CGTN","http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8","http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",""
 "第一财经","其他","1985","第一财经","http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8","http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",""
 "邵氏电影","电影","","","http://epg.112114.xyz/douyu/4246519","https://apic.douyucdn.cn/upload/avanew/face/201802/02/11/ed637cc2c43e94c6d841f5c1c75ac084_big.jpg","https://www.douyu.com/4246519"
-"爱上4K","电影","7244","爱上4K","http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8","http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",""
+"爱上4K","电影","7244","爱上4K","http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS","http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",""
 "欢笑剧场4k","电影","1977","欢笑剧场","http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8","http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",""
 "CHC高清电影","电影","6241","CHC高清电影","http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8","http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",""
 "CHC动作电影","电影","6245","CHC动作电影","http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8","http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",""
